@@ -1,0 +1,501 @@
+,questions
+0,what is the role of the bias in neural networks 
+1,what is the difference between a generative and a discriminative algorithm 
+2,tensorflow how to save restore a model 
+3,a simple explanation of naive bayes classification
+4,how does the google quot did you mean quot algorithm work 
+5,epoch vs iteration when training neural networks
+6,what are advantages of artificial neural networks over support vector machines 
+7,what is logits softmax and softmax cross entropy with logits 
+8,what is the difference between supervised learning and unsupervised learning 
+9,what is the meaning of the word logits in tensorflow 
+10,how to implement the softmax function in python
+11,what is the difference between linear regression and logistic regression 
+12,convert array of indices to hot encoded numpy array
+13,which machine learning classifier to choose in general 
+14,how to interpret quot loss quot and quot accuracy quot for a machine learning model
+15,is there a rule of thumb for how to divide a dataset into training and validation sets 
+16,difference between classification and clustering in data mining 
+17,save classifier to disk in scikit learn
+18,is it possible to specify your own distance function using scikit learn k means clustering 
+19,nearest neighbors in high dimensional data 
+20,why binary crossentropy and categorical crossentropy give different performances for the same problem 
+21,how to extract the decision rules from scikit learn decision tree 
+22,how to understand locality sensitive hashing 
+23,why do we have to normalize the input for an artificial neural network 
+24,how to split data into sets train validation and test 
+25,tensorflow why was python the chosen language 
+26,when should i use genetic algorithms as opposed to neural networks 
+27,why must a nonlinear activation function be used in a backpropagation neural network 
+28,how to train an artificial neural network to play diablo using visual input 
+29,how can i one hot encode in python 
+30,how does apple find dates times and addresses in emails 
+31,why does one hot encoding improve machine learning performance 
+32,intuitive understanding of d d and d convolutions in convolutional neural networks
+33,what is the difference between steps and epochs in tensorflow 
+34,python what is exactly sklearn pipeline pipeline 
+35,how can i run tensorboard on a remote server 
+36,machine learning libraries in c 
+37,google colaboratory misleading information about its gpu only ram available to some users 
+38,how to compute precision recall accuracy and f score for the multiclass case with scikit learn 
+39,what is an intuitive explanation of the expectation maximization technique 
+40,what is the role of quot flatten quot in keras 
+41,many to one and many to many lstm examples in keras
+42,why should weights of neural networks be initialized to random numbers 
+43,multi layer perceptron mlp architecture criteria for choosing number of hidden layers and size of the hidden layer 
+44,can anyone explain me standardscaler 
+45,what is the difference between a feature and a label 
+46,how to apply gradient clipping in tensorflow 
+47,can keras with tensorflow backend be forced to use cpu or gpu at will 
+48,what is machine learning 
+49,what is cross entropy 
+50,python tf idf cosine to find document similarity
+51,what is the map metric and how is it calculated 
+52,how to concatenate two layers in keras 
+53,what is the difference between np mean and tf reduce mean 
+54,how to load a model from an hdf file in keras 
+55,sentiment analysis for twitter in python
+56,what is the difference between value iteration and policy iteration 
+57,cocktail party algorithm svd implementation in one line of code 
+58,how can i build a model to distinguish tweets about apple inc from tweets about apple fruit 
+59,keras difference between kernel and activity regularizers
+60,why is the f measure a harmonic mean and not an arithmetic mean of the precision and recall measures 
+61,word vec negative sampling in layman term 
+62,how to get tensorflow tensor dimensions shape as int values 
+63,how do i find wally with python 
+64,common causes of nans during training
+65,how to tell keras stop training based on loss value 
+66,how to create a new gym environment in openai 
+67,error in python script quot expected d array got d array instead quot 
+68,estimating the number of neurons and number of layers of an artificial neural network
+69,unsupervised clustering with unknown number of clusters
+70,detecting patterns in waves
+71,what is the relation between the number of support vectors and training data and classifiers performance 
+72,what are the pros and cons between get dummies pandas and onehotencoder scikit learn 
+73,understanding min df and max df in scikit countvectorizer
+74,recovering features names of explained variance ratio in pca with sklearn
+75,what is the role of timedistributed layer in keras 
+76,deep learning nan loss reasons
+77,batch normalization in convolutional neural network
+78,how to update the bias in neural network backpropagation 
+79,tensorflow one hot encoder 
+80,how to implement the relu function in numpy
+81,why gradient descent when we can solve linear regression analytically
+82,scikit learn predict default threshold
+83,how to get most informative features for scikit learn classifiers 
+84,ways to improve the accuracy of a naive bayes classifier 
+85,tensorflow regularization with l loss how to apply to all weights not just last one 
+86,machine learning in ocaml or haskell 
+87,how to interpret poolallocator messages in tensorflow 
+88,perceptron learning algorithm not converging to 
+89,what is the intuition of using tanh in lstm
+90,training a neural network with reinforcement learning
+91,what is out of bag error in random forests 
+92,what are the major differences and benefits of porter and lancaster stemming algorithms 
+93,accuracy score valueerror can t handle mix of binary and continuous target
+94,extracting an information from web page by machine learning
+95,open source neural network library
+96,scikit learn how to obtain true positive true negative false positive and false negative
+97,how to write a confusion matrix in python 
+98,how to save final model using keras 
+99,what is the difference between labeled and unlabeled data 
+100,how big should batch size and number of epochs be when fitting a model in keras 
+101,what is the difference between gradient descent and newton s gradient descent 
+102,pattern recognition in time series
+103,how to approach a number guessing game with a twist algorithm 
+104,gradient descent using python and numpy
+105,svm hard or soft margins 
+106,what s the difference between a bidirectional lstm and an lstm 
+107,resources for working with machine learning in f 
+108,logo recognition in images
+109,mixing categorial and continuous data in naive bayes classifier using scikit learn
+110,how are neural networks used when the number of inputs could be variable 
+111,training data for sentiment analysis
+112,keras how to save the training history attribute of the history object
+113,converting a vision vntextobservation to a string
+114,java r integration 
+115,normalize a feature in this table
+116,evaluation amp calculate top n accuracy top and top 
+117,meaning of an epoch in neural networks training
+118,unbalanced data and weighted cross entropy
+119,how to do multi class classification using support vector machines svm 
+120,can someone explain to me the difference between a cost function and the gradient descent equation in logistic regression 
+121,keras model summary result understanding the of parameters
+122,what is a learning curve in machine learning 
+123,show progress bar for each epoch during batchwise training in keras
+124,what is the difference between a sigmoid followed by the cross entropy and sigmoid cross entropy with logits in tensorflow 
+125,how does one debug nan values in tensorflow 
+126,cost function linear regression trying to avoid hard coding theta octave 
+127,tfidfvectorizer in scikit learn valueerror np nan is an invalid document
+128,plotting results of hierarchical clustering ontop of a matrix of data in python
+129,linear regression analysis with string categorical features variables 
+130,tensorflow quot attempting to use uninitialized value quot in variable initialization
+131,can neural networks approximate any function given enough hidden neurons 
+132,how to install tensorflow on windows 
+133,octave logistic regression difference between fmincg and fminunc
+134,save naive bayes trained classifier in nltk
+135,pointers to some good svm tutorial 
+136,different result with roc auc score and auc 
+137,classifiers in scikit learn that handle nan null
+138,understanding neural network backpropagation
+139,tensorflow quot module object has no attribute placeholder quot 
+140,instance normalisation vs batch normalisation
+141,what is difference between tf truncated normal and tf random normal 
+142,what is inductive bias in machine learning 
+143,is it possible to append series to rows of dataframe without making a list first 
+144,dummy variables when not all categories are present
+145,tag generation from a text content
+146,why does scikitlearn says f score is ill defined with fn bigger than 
+147,cool project to use a genetic algorithm for 
+148,calculate auc in r 
+149,importerror could not import pil image working with keras ternsorflow
+150,how hard is it to implement a chess engine 
+151,graph write pdf quot iris pdf quot attributeerror list object has no attribute write pdf 
+152,unsupervised sentiment analysis
+153,how to learn mouse movement 
+154,how to install xgboost package in python windows platform 
+155,keras text preprocessing saving tokenizer object to file for scoring
+156,how to find the corresponding class in clf predict proba 
+157,how to predict input image using trained model in keras 
+158,what does quot fit quot method in scikit learn do 
+159,what does the standard keras model output mean what is epoch and loss in keras 
+160,what are the prerequisites for studying machine learning 
+161,how to log keras loss output to a file
+162,what s the difference between torch stack and torch cat functions 
+163,does the svm in sklearn support incremental online learning 
+164,what is the inverse of regularization strength in logistic regression how should it affect my code 
+165,what is the number of filter in cnn 
+166,can i use countvectorizer in scikit learn to count frequency of documents that were not used to extract the tokens 
+167,how do i find which attributes my tree splits on when using scikit learn 
+168,how to calculate the number of parameters of convolutional neural networks 
+169,how to calculate the regularization parameter in linear regression
+170,how can i classify data with the nearest neighbor algorithm using python 
+171,how to find the importance of the features for a logistic regression model 
+172,machine learning and natural language processing
+173,how to get mini batches in pytorch in a clean and efficient way 
+174,keras accuracy does not change
+175,how to tell which keras model is better 
+176,why feature scaling in svm 
+177,what is the difference between loss function and metric in keras 
+178,labels for clustermap in seaborn 
+179,recommended package for very large dataset processing and machine learning in r
+180,options for deploying r models in production
+181,real world typo statistics 
+182,higher validation accuracy than training accurracy using tensorflow and keras
+183,in which cases is the cross entropy preferred over the mean squared error 
+184,how to tune parameters in random forest using scikit learn 
+185,different decision tree algorithms with comparison of complexity or performance
+186,how could one implement the k means algorithm 
+187,gridsearch for an estimator inside a onevsrestclassifier
+188,what is a batch in tensorflow 
+189,deep belief networks vs convolutional neural networks
+190,how to calculate prediction uncertainty using keras 
+191,what is a projection layer in the context of neural networks 
+192,how many principal components to take 
+193,publicly available spam filter training set
+194,lstm autoencoder
+195,how does keras define quot accuracy quot and quot loss quot 
+196,what is the way to understand proximal policy optimization algorithm in rl 
+197,how to pick a language for artificial intelligence programming 
+198,what is the difference between sgd and back propagation 
+199,scikit learn k means elbow criterion
+200,make a custom loss function in keras
+201,setting values for ntree and mtry for random forest regression model
+202,sklearn sgdclassifier partial fit
+203,tensorboard plot training and validation losses on the same graph 
+204,how to predict time series in scikit learn 
+205,how to save amp load xgboost model 
+206,how to define max queue size workers and use multiprocessing in keras fit generator 
+207,machine learning algorithm for predicting order of events 
+208,how to serve a spark mllib model 
+209,tensorflow restoring a graph and model then running evaluation on a single image
+210,suggest what user could buy if he already has something in the cart
+211,machine learning amp big data
+212,correlated features and classification accuracy
+213,plot interactive decision tree in jupyter notebook
+214,can anyone give a real life example of supervised learning and unsupervised learning 
+215,what is lr policy in caffe 
+216,normalize data before or after split of training and testing data 
+217,how do you use keras leakyrelu in python 
+218,how can i implement incremental training for xgboost 
+219,importance of pca or svd in machine learning
+220,python random state in splitting dataset
+221,candidate elimination algorithm
+222,calling quot fit quot multiple times in keras
+223,choosing between geforce or quadro gpus to do machine learning via tensorflow
+224,save minmaxscaler model in sklearn
+225,converting linearsvc s decision function to probabilities scikit learn python 
+226,tensorflow precision recall f score and confusion matrix
+227,how to understand the term tensor in tensorflow 
+228,how do i solve overfitting in random forest of python sklearn 
+229,comparing r to matlab for data mining
+230,import input data mnist tensorflow not working
+231,how can i apply reinforcement learning to continuous action spaces 
+232,why input is scaled in tf nn dropout in tensorflow 
+233,why is weight vector orthogonal to decision plane in neural networks
+234,transform scipy sparse csr to pandas 
+235,how to make virtual organisms learn using neural networks 
+236,difference between keras model save and model save weights 
+237,cnn image resizing vs padding keeping aspect ratio or not 
+238,kmeans without knowing the number of clusters 
+239,altering trained images to train neural network
+240,xgboost in r how does xgb cv pass the optimal parameters into xgb train
+241,neural networks what does quot linearly separable quot mean 
+242,fastest svm implementation usable in python
+243,playground for artificial intelligence 
+244,how to run flask with gunicorn in multithreaded mode
+245,how to convert numpy arrays to standard tensorflow format 
+246,pytorch connection between loss backward and optimizer step 
+247,large scale machine learning python or java 
+248,resnet accuracy during training but prediction accuracy with the same data
+249,how to do gradient clipping in pytorch 
+250,how to use k fold cross validation in a neural network
+251,f score vs roc auc
+252,what is the difference between back propagation and feed forward neural network 
+253,how to get a normal distribution within a range in numpy 
+254,tensorflow operator overloading
+255,when should i use support vector machines as opposed to artificial neural networks 
+256,a guide to convert imageset cpp
+257,can keras deal with input images with different size 
+258,restore original text from keras s imdb dataset
+259,classifying documents into categories
+260,which machine learning library to use
+261,what is quot epoch quot in keras models model fit 
+262,distinguishing overfitting vs good prediction
+263,received a label value of which is outside the valid range of python keras
+264,how to use advanced activation layers in keras 
+265,unbalanced classification using randomforestclassifier in sklearn
+266,submitting assignment on coursera ml in octave
+267,sklearn metrics for multiclass classification
+268,pca for categorical features 
+269,dealing with unbalanced datasets in spark mllib
+270,evaluate multiple scores on sklearn cross val score
+271,how to engineer features for machine learning
+272,what does calling fit multiple times on the same model do 
+273,help understanding cross validation and decision trees
+274,how to choose number of hidden layers and nodes in neural network 
+275,python implementation of optics clustering algorithm
+276,best machine learning technique for matching product strings
+277,tackling class imbalance scaling contribution to loss and sgd
+278,simple python implementation of collaborative topic modeling 
+279,cross entropy in pytorch
+280,tensorflow slim typeerror expected int got list containing tensors of type message instead
+281,svm and neural network
+282,why is my gpu slower than cpu when training lstm rnn models 
+283,what is the use of train on batch in keras 
+284,difference between standardscaler and normalizer in sklearn preprocessing
+285,recommended anomaly detection technique for simple one dimensional scenario 
+286,how to recognize rectangles in this image 
+287,scikit learn how to scale back the y predicted result
+288,keras weighted binary crossentropy
+289,general approach to developing an image classification algorithm for dilbert cartoons
+290,how can i do train and test step in giza 
+291,load s data into aws sagemaker notebook
+292,missing values in scikits machine learning
+293,how to find probability distribution and parameters for real data python 
+294,how can i use a pre trained neural network with grayscale images 
+295,how to understand spatialdropout d and when to use it 
+296,what is the correct way to change image channel ordering between channels first and channels last 
+297,unit testing machine learning code
+298,evaluating pytorch models with torch no grad vs model eval 
+299,linear regression normalization vs standardization
+300,machine learning tensorflow v s tensorflow js v s brain js
+301,how to turn off dropout for testing in tensorflow 
+302,python nltk pos tag not returning the correct part of speech tag
+303,how to interpret scikit s learn confusion matrix and classification report 
+304,how to split data on balanced training set and test set on sklearn
+305,is there a better way to guess possible unknown variables without brute force than i am doing machine learning 
+306,fitting data vs transforming data in scikit learn
+307,show training and validation accuracy in tensorflow using same graph
+308,what s the difference between lstm and lstmcell 
+309,what is the difference between svc and svm in scikit learn 
+310,hyperparameter optimization for deep learning structures using bayesian optimization
+311,timedistributed dense vs dense in keras same number of parameters
+312,how to insert keras model into scikit learn pipeline 
+313,request for example recurrent neural network for predicting next value in a sequence
+314,unknown initializer glorotuniform when loading keras model
+315,maximum likelihood estimate pseudocode
+316,what s the difference between libsvm and liblinear
+317,how should the learning rate change as the batch size change 
+318,what is the difference between upsampling d and conv dtranspose functions in keras 
+319,hyperparameter optimization for pytorch model
+320,why does sklearn imputer need to fit 
+321,shuffling training data with lstm rnn
+322,precision recall for multiclass multilabel classification
+323,what is depth of a convolutional neural network 
+324,what are the differences between all these cross entropy losses in keras and tensorflow 
+325,a few implementation details for a support vector machine svm 
+326,training on imbalanced data using tensorflow
+327,make predictions using a tensorflow graph from a keras model
+328,clustering algorithm for mapping application
+329,why rotation invariant neural networks are not used in winners of the popular competitions 
+330,how to improve accuracy of tensorflow camera demo on ios for retrained graph
+331,how to fix matmul op has type float that does not match type float typeerror 
+332,simple multi layer neural network implementation
+333,what does clf mean in machine learning 
+334,python how to intuit word from abbreviated text using nlp 
+335,determining the most contributing features for svm classifier in sklearn
+336,choosing from different cost function and activation function of a neural network
+337,large scale machine learning
+338,nltk for named entity recognition
+339,keras error expected to see array
+340,tensor is not an element of this graph
+341,tensorflow mean squared error loss function
+342,how is elastic net used 
+343,create bayesian network and learn parameters with python x
+344,gradient descent seems to fail
+345,can t understand the cost function for linear regression
+346,what is the difference between q learning and value iteration 
+347,what is quot metrics quot in keras 
+348,scikit learn return value of logisticregression predict proba
+349,what is the difference between an embedding layer and a dense layer 
+350,what makes the distance measure in k medoid quot better quot than k means 
+351,keras flowfromdirectory get file names as they are being generated
+352,predicting how long an scikit learn classification will take to run
+353,what are some good machine learning programming exercises 
+354,how to use scikit learn pca for features reduction and know which features are discarded
+355,algorithm for hand writing recognition
+356,feature selection using scikit learn
+357,how to utilize hebbian learning 
+358,building a mutlivariate multi task lstm with keras
+359,how can a tree be encoded as input to a neural network 
+360,valueerror variable rnn basic rnn cell kernel already exists disallowed did you mean to set reuse true or reuse tf auto reuse in varscope 
+361,why the cost function of logistic regression has a logarithmic expression 
+362,an example using python bindings for svm library libsvm
+363,what is the difference between reinforcement learning and deep rl 
+364,how to load only specific weights on keras
+365,feature variable importance after a pca analysis
+366,record the computation time for each epoch in keras during model fit 
+367,non linear regression in c 
+368,use sklearn s gridsearchcv with a pipeline preprocessing just once
+369,difference between dense and activation layer in keras
+370,keras what is the difference between model predict and model predict proba
+371,runtimeerror input type torch floattensor and weight type torch cuda floattensor should be the same
+372,fast lt n clustering algorithm
+373,tensorflow introducing both l regularization and dropout into the network does it makes any sense 
+374,how to train a classifier with only positive and neutral data 
+375,how to understand loss acc val loss val acc in keras model fitting
+376,java s mahout equivalent in python
+377,how does one train multiple models in a single script in tensorflow when there are gpus present 
+378,apache flink vs apache spark as platforms for large scale machine learning 
+379,keras sparse matrix issue
+380,what type of orthogonal polynomials does r use 
+381,does tensorflow have cross validation implemented for its users 
+382,how to detect how similar a speech recording is to another speech recording 
+383,what is the difference between big data and data mining 
+384,understanding concept of gaussian mixture models
+385,what is a policy in reinforcement learning 
+386,train tensorflow object detection on own dataset
+387,what is weight decay meta parameter in caffe 
+388,how to install cuda in google colab gpu s
+389,tutorials for natural language processing
+390,how would one use kernel density estimation as a d clustering method in scikit learn 
+391,what is the meaning of the nu parameter in scikit learn s svm class 
+392,what tried and true algorithms for suggesting related articles are out there 
+393,best way to combine probabilistic classifiers in scikit learn
+394,what is a weak learner 
+395,when should one use linearsvc or svc 
+396,how do you read tensorboard files programmatically 
+397,sklearn stratifiedkfold valueerror supported target types are binary multiclass got multilabel indicator instead
+398,what is the parameter quot max q size quot used for in quot model fit generator quot 
+399,how to determine the filter parameter in the keras conv d function
+400,early stopping with keras and sklearn gridsearchcv cross validation
+401,using machine learning to de duplicate data
+402,using frequent itemset mining to build association rules 
+403,information gain calculation with scikit learn
+404,how to find the features names of the coefficients using scikit linear regression 
+405,lime vs treeinterpreter for interpreting decision tree
+406,how to calculate tf idf for a single new document to be classified 
+407,clarification how crf conditional random field works using examples
+408,how can i implement a custom rnn specifically an esn in tensorflow 
+409,how to graph grid scores from gridsearchcv 
+410,soft attention vs hard attention
+411,implementing bag of words naive bayes classifier in nltk
+412,what is the difference between a bayesian network and a naive bayes classifier 
+413,how to proceed with nlp task for recognizing intent and slots
+414,using pre trained word vec with lstm for word generation
+415,tensorflow for poets quot the name import input refers to an operation not in the graph quot 
+416,keras how to use fit generator with multiple inputs
+417,how to get svms to play nicely with missing data in scikit learn 
+418,open alternatives to google prediction api
+419,printing extra training metrics with tensorflow estimator
+420,error in confusionmatrix the data and reference factors must have the same number of levels
+421,tensorflow object detection api weird behavior
+422,good implementations of reinforcement learning 
+423,how do i approximate quot did you mean quot without using google 
+424,why neural network predicts wrong on its own training data 
+425,need a data set for fraud detection
+426,extract features using pre trained tensorflow cnn
+427,how does the back propagation algorithm deal with non differentiable activation functions 
+428,best strategy to reduce false positives google s new object detection api on satellite imagery
+429,when to use in place layers in caffe 
+430,when to use a certain reinforcement learning algorithm 
+431,scikit learn output metrics classification report into csv tab delimited format
+432,what is weakly supervised learning bootstrapping 
+433,xgboost plot importance doesn t show feature names
+434,any naive bayesian classifier in python 
+435,information retrieval ir vs data mining vs machine learning ml 
+436,difference between parameters features and class in machine learning
+437,controlling the threshold in logistic regression in scikit learn
+438,example of fold svm classification in matlab
+439,valueerror output tensors to a model must be the output of a tensorflow layer 
+440,q learning vs temporal difference vs model based reinforcement learning
+441,difference between cross val score and cross val predict
+442,insert or delete a step in scikit learn pipeline
+443,pointwise mutual information on text
+444,save python random forest model to file
+445,difference between conv d and convolution d in keras
+446,unsupervised automatic tagging algorithms 
+447,unable to approximate the sine function using a neural network
+448,confused about random state in decision tree of scikit learn
+449,using the predict proba function of randomforestclassifier in the safe and right way
+450,mobilenet vs ssd
+451,what is a threshold in a precision recall curve 
+452,batch normalization instead of input normalization
+453,how can i use sklearn naive bayes with multiple categorical features 
+454,applying machine learning to a guessing game 
+455,simple linear regression in python
+456,how to get different variable importance for each class in a binary h o gbm in r 
+457,neural network not learning mnist data handwriting recognition
+458,apple vision framework text extraction from image
+459,get learning rate of keras model
+460,differences in scikit learn keras or pytorch
+461,find s algorithm simple question
+462,how to disable dropout while prediction in keras 
+463,keras model evaluate vs model predict accuracy difference in multi class nlp task
+464,impute entire dataframe all columns using scikit learn sklearn without iterating over columns
+465,how to set weights in keras with a numpy array 
+466,is it ok to define your own cost function for logistic regression 
+467,how to calculate optimal batch size
+468,keep tfidf result for predicting new content using scikit for python
+469,calculate the cumulative distribution function cdf in python
+470,how do you make tensorflow keras fast with a tfrecord dataset 
+471,sklearn doesn t have attribute datasets 
+472,what does the vector of a word in word vec represents 
+473,in tensorflow what is the argument axis in the function tf one hot 
+474,pca first or normalization first 
+475,how to duplicate an estimator in order to use it on multiple data sets 
+476,liquid state machine how it works and how to use it 
+477,why is tensorflow s tf data package slowing down my code 
+478,hierarchical clustering of million objects
+479,combining bag of words and other features in one model using sklearn and pandas
+480,what is a bad decent good and excellent f measure range 
+481,scikit learn clustering text documents using dbscan
+482,scikit learn get accuracy scores for each class
+483,matching words and vectors in gensim word vec model
+484,what is a good explanation of how to read the histogram feature of tensorboard 
+485,designing a kernel for a support vector machine xor 
+486,plotting decision boundary for high dimension data
+487,approximating the sine function with a neural network
+488,lstm time sequence generation using pytorch
+489,what is the difference between gradient descent and gradient ascent 
+490,how to get bag of words from textual data 
+491,convert image to cvpixelbuffer for machine learning swift
+492,how to build a lift chart a k a gains chart in python 
+493,i want a machine to learn to categorize short texts
+494,keras how to use predict generator with imagedatagenerator 
+495,xgboost how to use quot mae quot as objective function 
+496,does gridsearchcv perform cross validation 
+497,using precomputed kernels with libsvm
+498,where is it best to use svm with linear kernel 
+499,how to apply labelencoder for a specific column in pandas dataframe
